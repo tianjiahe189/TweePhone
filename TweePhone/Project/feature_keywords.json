@@ -1,0 +1,13 @@
+{
+    "Camera":["camera", "portrait", "photo", "photos", "selfie", "slow motion", "slow-motion", "slow-mo", "slowmo", "slow mo", "video", "contrast", "high contrast", "high-constrast", "low contrast", "low-contrast", "low light", "low-light", "exposure", "hdr", "mega pixel", "mega pixels", "stabilization", "bokeh effect", "bokeh-effect"],
+    "Battery":["battery", "lithium"],
+    "Display":["screen", "display", "panel", "oled", "led", "amoled", "retina", "resolution", "video", "picture", "vivid", "contrast", "pixel", "pixels"],
+    "Performance":["cpu", "central processing unit", "processor", "benchmark", "gpu", "graphics processing unit", "graphics", "neural engine", "npu", "antutu", "geekbench", "geekbench4", "geekbench3", "benchmark", "benchmarks"],
+    "Memory":["memory", "ram", "random access memory"],
+    "Eco System":["eco system", "eco-system", "ecosystem"],
+    "Audio":["audio", "speaker", "stereo", "headphone", "earbuds", "ear buds", "ear-buds", "earbud", "ear bud", "ear-bud", "volume", "clarity", "hi-fi", "hi fi", "hifi"],
+    "Connectivity":["connectivity", "usb-c", "lightning", "bluetooth", "wireless", "carrier", "gps", "jack", "dongle", "dongles"],
+    "Security": ["security", "fingerprint", "face id", "face-id", "faceid", "recognization", "iris", "scanner", "touch id", "touchid", "touch-id", "encrypt", "encryption", "encrypted", "unlock"],
+    "Design": ["design", "aluminium", "glass", "plastic", "notch", "home button", "power button", "volume button", "colors", "color", "thick", "thickness", "weight", "heavy", "light", "thin", "bezel", "chin", "body"],
+    "Storage":["storage", "flash"]
+}
