@@ -40,6 +40,5 @@ The feature_keywords.json is used to support extracting feature data from tweets
 *********************************** Running the Code ***********************************
 After all requirements mentioned are met, TweePhone is ready to run. In the TweePhone Jupyter Notebook, in order to start TweePhone properly, all codes must be run in order from top to bottom. The last line of codes will launch the Bokeh server that users can use to interact with TweePhone. Reminder: The port number in the last line of codes must match the port number for Jupyter Notebook.
 
-HTJ
-JDD
+
 
